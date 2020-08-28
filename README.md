@@ -18,6 +18,9 @@
 ### HTML:
 ![JavaScript](/img/HTML-ETHEME.png)
 
+### PYTHON:
+![Python](/img/py-ETHEME.png)
+
 ## Installation
 Go to Extensions and search for : ETHEME
 
